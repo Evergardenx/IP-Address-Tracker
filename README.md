@@ -13,9 +13,7 @@ This app tracks the location of an IP address and renders details related to tha
 
 ## Overview
 
-### Screenshot
 
-![Screenshot](images/Screenshot.png)
 
 
 ## Working
